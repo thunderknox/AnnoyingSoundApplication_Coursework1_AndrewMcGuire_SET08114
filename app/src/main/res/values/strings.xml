@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnnoyingSoundApplication</string>
+    <string name="play_dixiehorn">Dixie Horn</string>
+    <string name="play_fart1">Fart 1</string>
+    <string name="play_fart2">Fart2</string>
+    <string name="play_siren">Siren</string>
+</resources>
